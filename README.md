@@ -1,5 +1,5 @@
 # fatima
-<h1 align="center">Hi 👋, I'm Fatima Al jawhari</h1>
+<h1 align="center">Hi 👋 Hello, I'm Fatima Al jawhari</h1>
 <h3 align="center">A passionate frontend developer from Lebanon</h3>
 
 - 📫 How to reach me **fatimaibrahimaljawhari@gmail.com**
